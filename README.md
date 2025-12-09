@@ -1,5 +1,6 @@
 # docker-workshop
-My hands-on
+My hgit push
+ands-on
 datatalks.club
 
 https://github.com/alexeygrigorev/workshops/tree/main/dezoomcamp-docker
